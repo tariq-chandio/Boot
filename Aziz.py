@@ -38,7 +38,8 @@ def jalan(z):
 		time.sleep(00000.1)
 ##### LOGO #####
 logo = """
-   Tariq-chandio
+   Tariq-chandio 
+   
    ▄︻̷̿┻̿═━一
    THE ANONYMOUS Tariqhacker TRICKER 
    THE LEGEND ℒℴνℯ
