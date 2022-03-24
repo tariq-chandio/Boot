@@ -40,7 +40,7 @@ def jalan(z):
 logo = """
    Tariq-chandio 
    
-   ▄︻̷̿┻̿═━一
+
    THE ANONYMOUS Tariqhacker TRICKER 
    THE LEGEND ℒℴνℯ
    THE GAME CHANGER ℒℴνℯ
